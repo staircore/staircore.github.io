@@ -1,4 +1,3 @@
-# staircore.github.io
+Demo: [moot1n.itch.io/staircore](https://moot1n.itch.io/staircore)
 
-https://moot1n.itch.io/staircore
-https://store.steampowered.com/app/4901580/
+Steam: [store.steampowered.com/app/4901580/](https://store.steampowered.com/app/4901580/)
